@@ -55,11 +55,6 @@ DBeaver / pgAdmin / SQLPad / BigQuery console
 
 # 🚀 How to Use
 
-Clone the repository:
-
-git clone https://github.com/<your-username>/dannys-diner-sql.git
-
-
 Load the schema and datasets into your SQL environment.
 
 Run the SQL files in the sql/ directory to reproduce the answers.
